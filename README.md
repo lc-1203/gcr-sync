@@ -26,4 +26,5 @@ registry-vpc.cn-zhangjiakou.aliyuncs.com/gcr-sync/[镜像仓库名称]:[镜像�
 | gcr镜像                   | 同步地址                                                     |
 | ------------------------- | ------------------------------------------------------------ |
 | prometheus-adapter:v0.9.1 | registry.cn-zhangjiakou.aliyuncs.com/gcr-sync/prometheus-adapter:v0.9.1 |
+| metrics-server:v0.6.1     | registry.cn-zhangjiakou.aliyuncs.com/gcr-sync/metrics-server:v0.6.1 |
 
