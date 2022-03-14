@@ -1,4 +1,5 @@
 # gcr-sync
+
 关联阿里云镜像仓库，用于同步gcr镜像
 
 ##  从Registry中拉取镜像
@@ -27,4 +28,5 @@ registry-vpc.cn-zhangjiakou.aliyuncs.com/gcr-sync/[镜像仓库名称]:[镜像�
 | ------------------------- | ------------------------------------------------------------ |
 | prometheus-adapter:v0.9.1 | registry.cn-zhangjiakou.aliyuncs.com/gcr-sync/prometheus-adapter:v0.9.1 |
 | metrics-server:v0.6.1     | registry.cn-zhangjiakou.aliyuncs.com/gcr-sync/metrics-server:v0.6.1 |
+| kube-state-metrics:v2.3.0 | registry.cn-zhangjiakou.aliyuncs.com/gcr-sync/kube-state-metrics:v2.3.0 |
 
